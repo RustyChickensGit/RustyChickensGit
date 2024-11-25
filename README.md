@@ -19,7 +19,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Write a function to calculate the factorial of a number.                              | ❌       |
 | Implement a program to read a file and display its contents.                          | ❌       |
 | Write a program to create a new file and write some text into it.                     | ❌       |
-| Implement a basic command-line calculator.                                            | ❌       |
+| Implement a basic command-line calculator.                                            | ✅       |
 | Create a function to reverse a string.                                               | ❌       |
 | Write a program to check if a number is prime.                                        | ❌       |
 | Implement a program to generate the Fibonacci sequence up to a given number.          | ❌       |
