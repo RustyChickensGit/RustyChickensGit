@@ -1,6 +1,6 @@
 # RustyChickensGit 🐔🦀
 
-Welcome to **RustyChickensGit**, a repository chronicling my journey to mastering Rust. This project is an evolving collection of challenges designed to build skills across a wide variety of topics, from beginner-level tasks to advanced concepts.
+Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rust. This project is a collection of challenges designed to build skills across a wide variety of topics, from beginner-level tasks to advanced concepts.
 
 ## 📚 Learning Progress
 
