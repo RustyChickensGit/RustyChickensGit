@@ -111,7 +111,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 ## 🚀 **Math**
 | Task                                                                                  | Status  |
 |---------------------------------------------------------------------------------------|---------|
-| Add two integers.                                                                    | ✅       |
+| [Add two integers.](https://github.com/RustyChickensGit/calculator/blob/main/src/main.rs)                                                                    | ✅       |
 | Multiply two floating-point numbers.                                                | ❌       |
 | Store a 2D point as a struct (`Point { x, y }`).                                     | ❌       |
 | Extend the Point struct to 3D.                                                      | ❌       |
