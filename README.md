@@ -20,7 +20,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Implement a program to read a file and display its contents.                          | ❌       |
 | Write a program to create a new file and write some text into it.                     | ❌       |
 | Implement a basic command-line calculator.                                            | ✅       |
-| Create a function to reverse a string.                                               | ❌       |
+| Create a function to reverse a string.                                                | ❌       |
 | Write a program to check if a number is prime.                                        | ❌       |
 | Implement a program to generate the Fibonacci sequence up to a given number.          | ❌       |
 | Create a basic enum to represent a traffic light and write a function to return its color. | ❌   |
@@ -33,6 +33,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Write a function to convert a temperature from Celsius to Fahrenheit.                 | ❌       |
 | Create a struct to represent a rectangle and write a method to calculate its area.    | ❌       |
 | Implement a program to simulate rolling two dice and summing the result.              | ❌       |
+| Create a "guess the number" game.                                                     | ✅       |
 
 ---
 
