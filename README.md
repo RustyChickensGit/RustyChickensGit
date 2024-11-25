@@ -13,13 +13,13 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 ## 🏁 **The Basics**
 | Task                                                                                  | Status  |
 |---------------------------------------------------------------------------------------|---------|
-| Write a program to print "Hello, World!" to the console.                              | ✅       |
+| [Write a program to print "Hello, World!" to the console.](https://github.com/RustyChickensGit/hello_world/blob/master/src/main.rs)                              | ✅       |
 | Write a function to take a string input and print it back to the user.                | ❌       |
 | Implement a basic struct to store a person's name and age.                            | ❌       |
 | Write a function to calculate the factorial of a number.                              | ❌       |
 | Implement a program to read a file and display its contents.                          | ❌       |
 | Write a program to create a new file and write some text into it.                     | ❌       |
-| Implement a basic command-line calculator.                                            | ✅       |
+| [Implement a basic command-line calculator.](https://github.com/RustyChickensGit/calculator/blob/main/src/main.rs)                                            | ✅       |
 | Create a function to reverse a string.                                                | ❌       |
 | Write a program to check if a number is prime.                                        | ❌       |
 | Implement a program to generate the Fibonacci sequence up to a given number.          | ❌       |
@@ -33,7 +33,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Write a function to convert a temperature from Celsius to Fahrenheit.                 | ❌       |
 | Create a struct to represent a rectangle and write a method to calculate its area.    | ❌       |
 | Implement a program to simulate rolling two dice and summing the result.              | ❌       |
-| Create a "guess the number" game.                                                     | ✅       |
+| [Create a "guess the number" game.](https://github.com/RustyChickensGit/guessing_game/blob/master/src/main.rs)                                                     | ✅       |
 
 ---
 
