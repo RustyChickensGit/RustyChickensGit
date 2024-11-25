@@ -14,7 +14,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Task                                                                                  | Status  |
 |---------------------------------------------------------------------------------------|---------|
 | [Write a program to print "Hello, World!" to the console.](https://github.com/RustyChickensGit/hello_world/blob/master/src/main.rs)                              | ✅       |
-| Write a function to take a string input and print it back to the user.                | ❌       |
+| [Write a function to take a string input and print it back to the user.](https://github.com/RustyChickensGit/echo_chamber/blob/master/src/main.rs)                | ✅       |
 | Implement a basic struct to store a person's name and age.                            | ❌       |
 | Write a function to calculate the factorial of a number.                              | ❌       |
 | Implement a program to read a file and display its contents.                          | ❌       |
