@@ -34,6 +34,24 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Create a struct to represent a rectangle and write a method to calculate its area.    | ❌       |
 | Implement a program to simulate rolling two dice and summing the result.              | ❌       |
 | [Create a "guess the number" game.](https://github.com/RustyChickensGit/guessing_game/blob/master/src/main.rs)                                                     | ✅       |
+| Create a program to calculate the sum of all even numbers between 1 and 100.          | ❌       |
+| Write a function to check if a number is odd or even.                                 | ❌       |
+| Implement a function to count the occurrences of a specific character in a string.    | ❌       |
+| Create a program that reverses the digits of an integer (e.g., 123 -> 321).           | ❌       |
+| Write a function to find the greatest common divisor (GCD) of two numbers using Euclid’s algorithm. | ❌ |
+| Create a program to find the smallest and largest numbers in an array.                | ❌       |
+| Write a function to generate a multiplication table for a given number.               | ❌       |
+| Implement a program that swaps the values of two variables without using a third variable. | ❌ |
+| Write a function to find the first non-repeating character in a string.               | ❌       |
+| Create a program to simulate rolling a die multiple times and output the results.     | ❌       |
+| Implement a function to determine if two numbers are co-prime (GCD is 1).             | ❌       |
+| Write a program to calculate compound interest given principal, rate, and time.       | ❌       |
+| Implement a program to convert a decimal number to binary.                            | ❌       |
+| Write a program to check if a given year is a leap year.                              | ❌       |
+| Create a function to rotate the elements of an array to the left or right by a given number of steps. | ❌ |
+| Implement a program to calculate the average of an array of numbers.                  | ❌       |
+| Write a function to calculate the power of a number (e.g., base^exponent).            | ❌       |
+| Create a program to find the largest prime number smaller than a given number.        | ❌       |
 
 ---
 
