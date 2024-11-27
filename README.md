@@ -52,6 +52,9 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | Implement a program to calculate the average of an array of numbers.                  | ❌       |
 | Write a function to calculate the power of a number (e.g., base^exponent).            | ❌       |
 | Create a program to find the largest prime number smaller than a given number.        | ❌       |
+| Implement a program to print the FizzBuzz sequence from 1 to 100.	                    | ❌       |
+| Write a program to calculate the area of different shapes using an enum and match.    | ❌       |
+| Write a program to categorize numbers as prime, composite, odd, or even using match   | ❌       |
 
 ---
 
