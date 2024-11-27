@@ -16,7 +16,7 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | [Write a program to print "Hello, World!" to the console.](https://github.com/RustyChickensGit/hello_world/blob/master/src/main.rs)                              | ✅       |
 | [Write a function to take a string input and print it back to the user.](https://github.com/RustyChickensGit/echo_chamber/blob/master/src/main.rs)                | ✅       |
 | [Implement a basic struct to store a person's name and age.](https://github.com/RustyChickensGit/person_card/blob/master/src/main.rs)                            | ✅       |
-| Write a function to calculate the factorial of a number.                              | ❌       |
+| [Write a function to calculate the factorial of a number.](https://github.com/RustyChickensGit/calc_factorial/blob/master/src/main.rs)                              | ✅       |
 | Implement a program to read a file and display its contents.                          | ❌       |
 | Write a program to create a new file and write some text into it.                     | ❌       |
 | [Implement a basic command-line calculator.](https://github.com/RustyChickensGit/calculator/blob/main/src/main.rs)                                            | ✅       |
