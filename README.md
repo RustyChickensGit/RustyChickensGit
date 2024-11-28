@@ -17,10 +17,10 @@ Welcome to my **Rusty Git**, a repository chronicling my journey to learning Rus
 | [Write a function to take a string input and print it back to the user.](https://github.com/RustyChickensGit/echo_chamber/blob/master/src/main.rs)                | ✅       |
 | [Implement a basic struct to store a person's name and age.](https://github.com/RustyChickensGit/person_card/blob/master/src/main.rs)                            | ✅       |
 | [Write a function to calculate the factorial of a number.](https://github.com/RustyChickensGit/calc_factorial/blob/master/src/main.rs)                              | ✅       |
-| Implement a program to read a file and display its contents.                          | ❌       |
-| Write a program to create a new file and write some text into it.                     | ❌       |
+| [Implement a program to read a file and display its contents.] (https://github.com/RustyChickensGit/read_from_files/blob/master/src/main.rs)                          | ✅       |
+| [Write a program to create a new file and write some text into it.](https://github.com/RustyChickensGit/read_from_files/blob/master/src/main.rs)                     | ✅       |
 | [Implement a basic command-line calculator.](https://github.com/RustyChickensGit/calculator/blob/main/src/main.rs)                                            | ✅       |
-| Create a function to reverse a string.                                                | ❌       |
+| [Create a function to reverse a string.](https://github.com/RustyChickensGit/read_from_files/blob/master/src/main.rs)                                                | ✅       |
 | Write a program to check if a number is prime.                                        | ❌       |
 | Implement a program to generate the Fibonacci sequence up to a given number.          | ❌       |
 | Create a basic enum to represent a traffic light and write a function to return its color. | ❌   |
